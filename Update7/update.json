@@ -1,0 +1,20 @@
+{
+  "name": "Update7",
+  "version": "3.7.0",
+  "date": "2026-11-07",
+  "title": "Klangqualität für Ton-Einstellungen",
+  "description": "Neue Klangqualitäts-Einstellungen in der Systemsteuerung unter Ton. Audio-Qualität, Sample-Rate, Bit-Tiefe, Rauschunterdrückung, Equalizer, Bass/Höhen-Verstärkung. Nicht vorinstalliert — erst nach Update verfügbar.",
+  "changelog": [
+    "NEU: Klangqualität in Systemsteuerung → Ton (nach Update verfügbar)",
+    "Audio-Qualität: Niedrig (22 kHz), Mittel (44 kHz), Hoch (48 kHz), Verlustfrei (96 kHz)",
+    "Sample-Rate: 22.05 / 44.1 / 48 / 96 kHz",
+    "Bit-Tiefe: 8 / 16 / 24 / 32 Bit",
+    "Rauschunterdrückung (Toggle)",
+    "Equalizer (Toggle)",
+    "Bass-Verstärkung (-10 bis +10)",
+    "Höhen-Verstärkung (-10 bis +10)",
+    "Drag & Drop auf Desktop repariert (preventDefault im mousedown)",
+    "Update-Logik: Update wird nur nach echtem Download als installiert markiert"
+  ],
+  "lexaos_sound_quality_enabled": true
+}
