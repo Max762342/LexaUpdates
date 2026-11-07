@@ -1,0 +1,15 @@
+{
+  "name": "Update3",
+  "version": "3.3.0",
+  "date": "2026-11-07",
+  "title": "Taskleisten-Farbe & Store-Fixes",
+  "description": "Neue Funktion: Taskleisten-Farbe in den Einstellungen ändern. Lexa Store Schriftfehler behoben.",
+  "changelog": [
+    "NEU: Taskleisten-Farbe in Einstellungen → Taskleiste ändern",
+    "10 vordefinierte Farben + eigene Farbe per Farbwähler",
+    "Farbe wird auf Taskleiste, Startmenü und Panels angewendet",
+    "Lexa Store: Mojibake-Schriftfehler behoben (Kommentare, Sterne-Bewertung)",
+    "Lexa Store: Ternary-Operatoren repariert"
+  ],
+  "lexaos_update_version": 3
+}
