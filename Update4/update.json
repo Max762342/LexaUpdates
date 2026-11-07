@@ -1,0 +1,16 @@
+{
+  "name": "Update4",
+  "version": "3.4.0",
+  "date": "2026-11-07",
+  "title": "Drag & Drop Fix",
+  "description": "Drag & Drop auf dem Desktop funktioniert wieder zuverlässig. Doppelte Event-Bindung behoben, Text-Auswahl während Drag verhindert, Ghost-Element korrekt positioniert.",
+  "changelog": [
+    "Drag & Drop: Doppelte Event-Bindung behoben (Delegation + _bindDrag feuerten beide)",
+    "Drag & Drop: e.preventDefault() verhindert native Text-Auswahl während Drag",
+    "Drag & Drop: user-select:none + cursor:move während Drag",
+    "Drag & Drop: Ghost-Element z-index auf 10000 erhöht (nicht mehr abgeschnitten)",
+    "Drag & Drop: selectstart-Event auf Desktop-Icons blockiert",
+    "Drag & Drop: Legacy _bindDrag-Aufruf in _bindIcon entfernt (Delegation übernimmt)"
+  ],
+  "lexaos_update_version": 4
+}
