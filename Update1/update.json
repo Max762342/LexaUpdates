@@ -1,0 +1,17 @@
+﻿{
+  "name": "Update1",
+  "version": "3.1.0",
+  "date": "2026-11-07",
+  "title": "Systemsteuerung & Geräte-Einstellungen",
+  "description": "Neue App: Systemsteuerung mit umfassenden Geräte-Einstellungen (Anzeige, Ton, Netzwerk, Akku, Datenschutz, Geräte, Barrierefreiheit, Datum & Uhrzeit).",
+  "changelog": [
+    "Neue App: Systemsteuerung (systemcontrol.js)",
+    "9 Kategorien: Anzeige, Ton, Netzwerk, Akku, Datenschutz, Geräte, Barrierefreiheit, Datum & Uhrzeit, System-Info",
+    "Nachtlicht-Modus mit einstellbarer Intensität",
+    "Farbfilter für Farbfehlsichtigkeit (Protanopie, Deuteranopie, Tritanopie)",
+    "Energieverwaltung mit Akku-Schwellen und Energie-Modi",
+    "Datenschutz-Steuerung (Kamera, Mikrofon, Standort, Werbung)",
+    "Barrierefreiheit (Hoher Kontrast, Textgröße, Sprachausgabe)"
+  ],
+  "lexaos_update_version": 1
+}
